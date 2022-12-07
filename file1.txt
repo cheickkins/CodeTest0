@@ -1,2 +1,6 @@
 Lorem ispdvdfez, Lorem ispdvdfez,Lorem ispdvdfez,Lorem ispdvdfez,Lorem ispdvdfez,Lorem ispdvdfez,Lorem ispdvdfez,
+<<<<<<< Updated upstream
 Lorem ispdvdfez,Lorem ispdvdfez,Lorem ispdvdfez knkj,kj,
+=======
+Lorem ispdvdfez,Lorem ispdvdfez,Lorem ispdvdfez,n,;
+>>>>>>> Stashed changes
